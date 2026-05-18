@@ -1,9 +1,9 @@
 package problema2;
 
 public class Problema2 {
-    static class Resultado {
-        int mayor;
-        int segundo;
+    public static class Resultado {
+        public int mayor;
+        public int segundo;
         Resultado(int mayor, int segundo) {
             this.mayor = mayor;
             this.segundo = segundo;
